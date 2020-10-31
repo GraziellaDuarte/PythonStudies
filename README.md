@@ -1,3 +1,3 @@
 # PythonStudies
 
-Repository created for python studies
+🚧Repository created for python studies🚧
